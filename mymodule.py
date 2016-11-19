@@ -1,5 +1,4 @@
 ## mymodule: a module containing functions to print a message, convert temperatures and find the 3rd letter of a word ##
-###################################### Maryam Ahmed, University of Oxford, 2016 ####################################
 
 # INSTRUCTIONS
 # Write code for the three functions below:
