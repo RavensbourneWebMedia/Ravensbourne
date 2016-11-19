@@ -1,5 +1,4 @@
 ############################ a web app written with the Flask web framework for Python #############################
-###################################### Maryam Ahmed, University of Oxford, 2016 ####################################
 
 # Your challenge, should you choose to accept it, is:
 # 1. Edit template.html to add a form element, and embedded CSS styling including a link to normalize.css
