@@ -1,5 +1,4 @@
 ######################### feelinclassy: a class containing functions to print various messages #########################
-###################################### Maryam Ahmed, University of Oxford, 2016 ####################################
 
 ##### We define the class here ####
 class feelinClassy(object):
