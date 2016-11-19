@@ -1,5 +1,4 @@
 ############################ a script to make API requests and print the returned data #############################
-###################################### Maryam Ahmed, University of Oxford, 2016 ####################################
 
 # 'requests' is a module (or 'library') that lets us make API requests
 import requests
