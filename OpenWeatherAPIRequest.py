@@ -1,5 +1,4 @@
-############################ a script to make API requests and print the returned data #############################
-###################################### Maryam Ahmed, University of Oxford, 2016 ####################################
+############################ a script to make API requests and print the returned data ################################
 
 # 'requests' is a module (or 'library') that lets us make API requests
 import requests
@@ -25,13 +24,8 @@ print type(APIresponse.content)
 # Let's print out our data again and figure out which dictionary element we want to access
 print data
 
-
-
-
-
-
 # Access the dictionary element we're interested in and convert to Kelvin
-#temp = data['main']['temp']
+temp = data['main']['temp']-273.15
 
 # Print the result to a string
-# print "The temperature in "+str(cityname)+" is "+ str(data['main']['temp']-273.15) + "C"
+# print "The temperature in "+str(cityname)+" is "+ str(data['main']['temp']) + "C"
