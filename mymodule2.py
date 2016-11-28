@@ -1,5 +1,4 @@
 ############################################ mymodule2: practising functions ########################################
-###################################### Maryam Ahmed, University of Oxford, 2016 ####################################
 
 # INSTRUCTIONS
 # Write code for the three functions below:
